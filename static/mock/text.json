@@ -1,0 +1,41 @@
+[{
+  "id": 6,
+  "price": "6.00",
+  "drink": "green tea_d",
+  "image_url": "image_url",
+  "created_at": "2019-11-05 02:52:30",
+  "updated_at": "2019-11-05 02:52:30"
+  },
+  {
+  "id": 4,
+  "price": "6.00",
+  "drink": "green tea",
+  "image_url": "image_url",
+  "created_at": "2019-11-05 02:49:45",
+  "updated_at": "2019-11-05 02:51:28"
+  },
+  {
+  "id": 3,
+  "price": "8.00",
+  "drink": "coffee",
+  "image_url": "image_url",
+  "created_at": "2019-11-05 02:45:16",
+  "updated_at": "2019-11-05 02:45:16"
+  },
+  {
+  "id": 2,
+  "price": "5.55",
+  "drink": "banana",
+  "image_url": "image_url",
+  "created_at": "2019-11-05 02:44:42",
+  "updated_at": "2019-11-05 02:44:42"
+  },
+  {
+  "id": 1,
+  "price": "5.55",
+  "drink": "apple",
+  "image_url": "image_url",
+  "created_at": null,
+  "updated_at": "2019-11-05 02:43:53"
+  }
+  ]
